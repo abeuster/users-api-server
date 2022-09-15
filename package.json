@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "homepage": "https://github.com/abeuster/users-api-server#readme",
-  "devdependencies": {
+  "dependencies": {
     "json-server": "^0.17.0"
   }
 }
